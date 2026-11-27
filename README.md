@@ -16,7 +16,7 @@ A local-first personal finance and expense tracking dashboard built with **Strea
 * **Planned Allocation Blueprint:** Dynamically add, rename, or delete allocation buckets (e.g., Investment, Savings, Allowance, Personal) and preview percentage-based splits against 1-month net income.
 
 ### 3. Planned vs. Actual & Finalize
-* **Spending Split:** Automatically separates expenses into **Personal** (keyword "personal" -- travel, entertainment, etc.) and **Necessary** (meals, transport, etc.) spendings and computes the surplus/deficit against your Planned Personal Allowance.
+* **Spending Split:** Automatically separates expenses into **Personal** (keyword "personal" - travel, entertainment, etc.) and **Necessary** (meals, transport, etc.) spendings and computes the surplus/deficit against your Planned Personal Allowance.
 * **Allocation Finalization:** Auto-syncs suggested final amounts (factoring in bonuses and personal allowance variance) while letting you adjust values before confirming.
 * **Cap Validation:** Prevents confirmed allocations from exceeding `Gross Income - CPF - Expenses + Bonuses` (with full support for negative balances).
 
